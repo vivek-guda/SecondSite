@@ -275,7 +275,8 @@ body {
     background-color: rgb(233, 126, 132);
     position: absolute;
     bottom: 0;
-    color: rgb(25, 25, 26);
+    /* color: rgb(25, 25, 26); */
+    color: var(--nightsky);
     display: flex;
     flex-direction: column;
     justify-content: center;
